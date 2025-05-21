@@ -24,8 +24,8 @@ Before you start, you'll need:
 1. **Clone the repository or download the source code**
 
    ```bash
-   git clone https://github.com/yourusername/deepseek-chatbot.git
-   cd deepseek-chatbot
+   git clone https://github.com/yourusername/ai-chat.git
+   cd ai-chat
    ```
 
    Or simply download and extract the ZIP file.
